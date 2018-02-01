@@ -1,0 +1,6 @@
+D:\OneDrive\OneDrive - Fakultet Organizacije i Informatike Varaždin\VS_Vjezbe\5.1 Varijable\5.1.2.Umnoz_kvoc\5.1.2.Umnoz_kvoc\bin\Debug\5.1.2.Umnoz_kvoc.exe.config
+D:\OneDrive\OneDrive - Fakultet Organizacije i Informatike Varaždin\VS_Vjezbe\5.1 Varijable\5.1.2.Umnoz_kvoc\5.1.2.Umnoz_kvoc\bin\Debug\5.1.2.Umnoz_kvoc.exe
+D:\OneDrive\OneDrive - Fakultet Organizacije i Informatike Varaždin\VS_Vjezbe\5.1 Varijable\5.1.2.Umnoz_kvoc\5.1.2.Umnoz_kvoc\bin\Debug\5.1.2.Umnoz_kvoc.pdb
+D:\OneDrive\OneDrive - Fakultet Organizacije i Informatike Varaždin\VS_Vjezbe\5.1 Varijable\5.1.2.Umnoz_kvoc\5.1.2.Umnoz_kvoc\obj\Debug\5.1.2.Umnoz_kvoc.csproj.CoreCompileInputs.cache
+D:\OneDrive\OneDrive - Fakultet Organizacije i Informatike Varaždin\VS_Vjezbe\5.1 Varijable\5.1.2.Umnoz_kvoc\5.1.2.Umnoz_kvoc\obj\Debug\5.1.2.Umnoz_kvoc.exe
+D:\OneDrive\OneDrive - Fakultet Organizacije i Informatike Varaždin\VS_Vjezbe\5.1 Varijable\5.1.2.Umnoz_kvoc\5.1.2.Umnoz_kvoc\obj\Debug\5.1.2.Umnoz_kvoc.pdb

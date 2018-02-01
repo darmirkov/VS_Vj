@@ -1,0 +1,7 @@
+D:\OneDrive\OneDrive - Fakultet Organizacije i Informatike Varaždin\Visual Studio Vjezbe\5.1 Varijable\5.1.1.Zbroj_i_razlika\5.1.1.Zbroj_i_razlika\bin\Debug\5.1.1.Zbroj_i_razlika.exe.config
+D:\OneDrive\OneDrive - Fakultet Organizacije i Informatike Varaždin\Visual Studio Vjezbe\5.1 Varijable\5.1.1.Zbroj_i_razlika\5.1.1.Zbroj_i_razlika\bin\Debug\5.1.1.Zbroj_i_razlika.exe
+D:\OneDrive\OneDrive - Fakultet Organizacije i Informatike Varaždin\Visual Studio Vjezbe\5.1 Varijable\5.1.1.Zbroj_i_razlika\5.1.1.Zbroj_i_razlika\bin\Debug\5.1.1.Zbroj_i_razlika.pdb
+D:\OneDrive\OneDrive - Fakultet Organizacije i Informatike Varaždin\Visual Studio Vjezbe\5.1 Varijable\5.1.1.Zbroj_i_razlika\5.1.1.Zbroj_i_razlika\obj\Debug\5.1.1.Zbroj_i_razlika.csprojResolveAssemblyReference.cache
+D:\OneDrive\OneDrive - Fakultet Organizacije i Informatike Varaždin\Visual Studio Vjezbe\5.1 Varijable\5.1.1.Zbroj_i_razlika\5.1.1.Zbroj_i_razlika\obj\Debug\5.1.1.Zbroj_i_razlika.csproj.CoreCompileInputs.cache
+D:\OneDrive\OneDrive - Fakultet Organizacije i Informatike Varaždin\Visual Studio Vjezbe\5.1 Varijable\5.1.1.Zbroj_i_razlika\5.1.1.Zbroj_i_razlika\obj\Debug\5.1.1.Zbroj_i_razlika.exe
+D:\OneDrive\OneDrive - Fakultet Organizacije i Informatike Varaždin\Visual Studio Vjezbe\5.1 Varijable\5.1.1.Zbroj_i_razlika\5.1.1.Zbroj_i_razlika\obj\Debug\5.1.1.Zbroj_i_razlika.pdb
